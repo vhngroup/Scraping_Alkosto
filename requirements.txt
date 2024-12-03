@@ -1,0 +1,5 @@
+pandas
+undetected_chromedriver
+selenium
+webdriver_manager
+setuptools
